@@ -1,8 +1,8 @@
-![logo](https://github.com/Mukesh-Choudhary-123/Mukesh-Choudhary-123/blob/main/Github%20Banner.png)
+![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAXYzBxx42Hjmll-1KDJeZ7dPoMcBXtpoPHg&usqp=CAU) 
 <h1 align="center" >Hello 👋 <p>I'm Mukesh Choudhary</p></h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="code" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align="right" alt="code" width="300" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 - 📫 How to reach me **mukeshchoudhary1062003@gmail.com**
 
