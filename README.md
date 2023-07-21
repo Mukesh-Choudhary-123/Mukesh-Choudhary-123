@@ -1,5 +1,5 @@
 ![logo](https://github.com/Mukesh-Choudhary-123/Mukesh-Choudhary-123/blob/main/Github%20Banner.png)
-<h1 align="center">Hello 👋, I'm Mukesh Choudhary</h1>
+<h1 align="center" >Hello 👋 <p>I'm Mukesh Choudhary</p></h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <img align="right" alt="code" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
