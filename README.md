@@ -18,8 +18,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=1x&id=40670&format=png" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=1x&id=GPfHz0SM85FX&format=gif" alt="java" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukesh-choudhary-123&show_icons=true&locale=en&layout=compact" alt="mukesh-choudhary-123" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukesh-choudhary-123&theme=transparent&show_icons=true&locale=en" alt="mukesh-choudhary-123" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukesh-choudhary-123&show_icons=true&locale=en&layout=donut-vertical" alt="mukesh-choudhary-123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-choudhary-123&theme=burnt-neon&hide_border=true" alt="mukesh-choudhary-123" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukesh-choudhary-123&theme=transparent&show_icons=true&locale=en" alt="mukesh-choudhary-123" /></p>
