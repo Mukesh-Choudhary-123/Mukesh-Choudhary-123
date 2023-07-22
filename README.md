@@ -1,4 +1,4 @@
-![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAXYzBxx42Hjmll-1KDJeZ7dPoMcBXtpoPHg&usqp=CAU) 
+![Banner](https://media.licdn.com/dms/image/D4D16AQGuide-3Fx0pg/profile-displaybackgroundimage-shrink_350_1400/0/1689658424400?e=1695254400&v=beta&t=b48UIwXC8BuKT4JSSSFEty4lKXvkwgb5CKYcWPMWUqU) 
 <h1 align="center" >Hello 👋 <p>I'm Mukesh Choudhary</p></h1>
 <h3 align="center">A passionate software developer from India</h3>
 
