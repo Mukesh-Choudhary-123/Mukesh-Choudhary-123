@@ -1,5 +1,6 @@
-![Banner](https://media.licdn.com/dms/image/D4D16AQGB0J70RYBbYg/profile-displaybackgroundimage-shrink_350_1400/0/1689997267483?e=1695254400&v=beta&t=zGUCmjtb46TJo4nlYCPFt6beGvmkCTG-EDfva4f7b6w) 
-<h1 align="center" >Hello 👋 <p>I'm Mukesh Choudhary</p></h1>
+![Banner](https://kundaliniresearchinstitute.org/wp-content/uploads/2023/06/background-thin-banner40-Day-Meditation-1.jpg) 
+
+<h1 align="center">Hello 👋 <p>I'm Mukesh Choudhary</p></h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <img align="right" alt="code" width="300" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
