@@ -1,4 +1,4 @@
-![Banner](https://kundaliniresearchinstitute.org/wp-content/uploads/2023/06/background-thin-banner40-Day-Meditation-1.jpg) 
+![Banner](https://media.licdn.com/dms/image/D4D16AQGcsu2eivXE_g/profile-displaybackgroundimage-shrink_350_1400/0/1689997394771?e=1695859200&v=beta&t=vsb-xEfk4ru655AzokK1iemrUEoxOz-tgJrHN0_OM4w) 
 
 <h1 align="center">Hello 👋 <p>I'm Mukesh Choudhary</p></h1>
 <h3 align="center">A passionate software developer from India</h3>
