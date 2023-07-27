@@ -1,6 +1,6 @@
 ![Banner](https://media.licdn.com/dms/image/D4D16AQGcsu2eivXE_g/profile-displaybackgroundimage-shrink_350_1400/0/1689997394771?e=1695859200&v=beta&t=vsb-xEfk4ru655AzokK1iemrUEoxOz-tgJrHN0_OM4w) 
 
-<h1 align="center">Hello 👋 ,<p>I'm Mukesh Choudhary</p></h1>
+<h1 align="center">Hello 👋 <p>I'm Mukesh Choudhary</p></h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <img align="right" alt="code" width="300" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
