@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/D4D16AQGcsu2eivXE_g/profile-displaybackgroundimage-shrink_350_1400/0/1689997394771?e=1695859200&v=beta&t=vsb-xEfk4ru655AzokK1iemrUEoxOz-tgJrHN0_OM4w) 
+![Banner](https://media.licdn.com/dms/image/D5616AQFVpX9ss-71bA/profile-displaybackgroundimage-shrink_350_1400/0/1695146512312?e=1700697600&v=beta&t=U2KE4UM70YLPP4e46Bt-BGclIyWK8vUtdeFLnkfXZtY) 
 
 <h1 align="center">Hello 👋 <p>I'm Mukesh Choudhary</p></h1>
 <h3 align="center">A passionate software developer from India</h3>
