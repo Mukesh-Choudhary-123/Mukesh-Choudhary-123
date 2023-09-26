@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mukesh-choudhary-ba4664256/" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png" alt="mukesh choudhary" height="40" width="40" /></a>
+<a href="//https://www.codechef.com/users/mukesh63" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=LnZMjt9rZC3d&format=png" alt="mukesh_choudhary32" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/mukesh_choudhary32" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=rYBVqyU1tdKG&format=png" alt="mukesh_choudhary32" height="30" width="30" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mukeshchoudhyi9r" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=AbQBhN9v62Ob&format=png" alt="mukeshchoudhyi9r" height="30" width="40" /></a>
 </p>
