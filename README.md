@@ -1,7 +1,5 @@
-[banner!](Github Banner/Black Minimalist Motivation Quote LinkedIn Banner.png)
-
 <h1 align="center">Hello 👋 <p>I'm Mukesh Choudhary</p></h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate for software developer</h3>
 
 <img align="right" alt="code" width="300" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
