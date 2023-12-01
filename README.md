@@ -1,3 +1,5 @@
+[banner!](Github Banner/Black Minimalist Motivation Quote LinkedIn Banner.png)
+
 <h1 align="center">Hello 👋 <p>I'm Mukesh Choudhary</p></h1>
 <h3 align="center">A passionate software developer from India</h3>
 
@@ -21,6 +23,5 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukesh-choudhary-123&theme=transparent&show_icons=true&locale=en&layout=donut-vertical" alt="mukesh-choudhary-123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-choudhary-123&theme=tokyonight-duo" alt="mukesh-choudhary-123" /></p>
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukesh-choudhary-123&theme=transparent&show_icons=true&locale=en" alt="mukesh-choudhary-123" /></p>
