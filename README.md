@@ -1,13 +1,16 @@
 <h1 align="center">Hello 👋 <p>I'm Mukesh Choudhary</p></h1>
 <h3 align="center">A passionate for software developer</h3>
 
-<img align="right" alt="code" width="300" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
-
 - 📫 How to reach me **mukeshchoudhary1062003@gmail.com**
 
 - ⚡ Fun fact **:- Debugging is like solving a mystery with a computer!😄**
 
-<h3 align="left">Connect with me:</h3>
+
+
+<h2 align="left">Connect with me:</h2>
+
+ <img align="right" alt="code" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" width="600" height="340" >
+
 <p align="left">
 <a href="https://www.linkedin.com/in/mukesh-choudhary-ba4664256/" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png" alt="mukesh choudhary" height="60" width="60" /></a>
 <a href="https://www.leetcode.com/mukesh_choudhary32" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=rYBVqyU1tdKG&format=png" alt="mukesh_choudhary32" height="40" width="40" /></a>
