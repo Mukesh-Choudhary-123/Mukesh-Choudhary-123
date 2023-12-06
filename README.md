@@ -12,7 +12,7 @@
 
 <h2 align="left">Connect with me:</h2>
 
- <img align="right" alt="code" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" width="600" height="340" >
+ <img align="right" alt="code" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" width="400" height="340" >
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mukesh-choudhary-ba4664256/" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png" alt="mukesh choudhary" height="60" width="60" /></a>
