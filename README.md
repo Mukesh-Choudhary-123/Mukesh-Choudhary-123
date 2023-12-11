@@ -1,4 +1,5 @@
-![banner](https://github.com/Mukesh-Choudhary-123/Mukesh-Choudhary-123/assets/118448246/ebf2f7a9-8555-4579-89a1-bc6877f2143a)
+
+![1695146512312](https://github.com/Mukesh-Choudhary-123/Mukesh-Choudhary-123/assets/118448246/0aed1966-8f1d-4eef-806e-0780641f9cf4)
 
 
 <h1 align="center">Hello 👋 <p>I'm Mukesh Choudhary</p></h1>
