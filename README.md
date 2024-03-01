@@ -1,5 +1,4 @@
-
-![1695146512312](https://github.com/Mukesh-Choudhary-123/Mukesh-Choudhary-123/assets/118448246/0aed1966-8f1d-4eef-806e-0780641f9cf4)
+![Screenshot 2024-02-28 155315](https://github.com/Mukesh-Choudhary-123/Mukesh-Choudhary-123/assets/118448246/509a9c4b-7ee0-4aab-b3a8-86ba052954e0)
 
 
 <h1 align="center">Hello 👋 <p>I'm Mukesh Choudhary</p></h1>
